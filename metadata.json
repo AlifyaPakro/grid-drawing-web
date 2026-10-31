@@ -1,0 +1,8 @@
+{
+  "name": "ArtisanGrid - Artist Drawing Grid & Scaling Studio",
+  "description": "Overlay customizable precision drawing grids onto reference images for scaling, proportion transfer, and tonal value analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
